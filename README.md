@@ -1,2 +1,1 @@
-***The invention of the digital motion detection in the 1990s marked a fundamental shift from unreliable human observation of analog video signals to differential matrix analysis. By digitizing video frames and calculating pixel-by-pixel differences, the system eliminates static background data and triggers hardware interrupts only when an object alters the spatial
-***
+
